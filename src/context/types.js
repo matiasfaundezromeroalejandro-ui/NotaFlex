@@ -1,0 +1,13 @@
+export const SET_GRADE_SCALE = 'SET_GRADE_SCALE';
+export const SET_ACADEMIC_PERIOD = 'SET_ACADEMIC_PERIOD';
+export const ADD_SUBJECT = 'ADD_SUBJECT';
+export const UPDATE_SUBJECT = 'UPDATE_SUBJECT';
+export const DELETE_SUBJECT = 'DELETE_SUBJECT';
+export const ADD_GRADE = 'ADD_GRADE';
+export const UPDATE_GRADE = 'UPDATE_GRADE';
+export const DELETE_GRADE = 'DELETE_GRADE';
+export const SET_THEME = 'SET_THEME';
+export const SET_PRIMARY_COLOR = 'SET_PRIMARY_COLOR';
+export const SET_SETUP_COMPLETED = 'SET_SETUP_COMPLETED';
+export const RESET_ALL = 'RESET_ALL';
+export const LOAD_STATE = 'LOAD_STATE';
